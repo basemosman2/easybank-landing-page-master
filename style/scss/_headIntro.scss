@@ -40,7 +40,7 @@
         .img-box{
             order: 2;
             position: relative;
-            background-image: url('/images/bg-intro-desktop.svg') !important;
+            background-image: url('images/bg-intro-desktop.svg') !important;
             background-position: left;
             background-size: cover;
             img{
@@ -68,7 +68,7 @@
         .img-box{
             height: 500px;
             overflow: inherit;
-            ackground-position: left;
+            background-position: left;
             background-size: 127%;
             img{
                 position: absolute;
