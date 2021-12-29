@@ -3,7 +3,7 @@
     .img-box{
         width: 100%;
         overflow: hidden;
-        background-image: url('images/bg-intro-mobile.svg');
+        background-image: url('../images/bg-intro-mobile.svg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -40,7 +40,7 @@
         .img-box{
             order: 2;
             position: relative;
-            background-image: url('images/bg-intro-desktop.svg') !important;
+            background-image: url('../images/bg-intro-desktop.svg') !important;
             background-position: left;
             background-size: cover;
             img{
